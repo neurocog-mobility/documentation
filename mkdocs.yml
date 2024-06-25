@@ -1,0 +1,17 @@
+site_name: Neuro-cognition & Mobility Lab Documentation
+nav:
+ - About: 'index.md'
+ - Getting Started: 'getting-started.md'
+ - Usage:
+    - Example: "usage/tutorials/default.md"
+ - NiMBaL Toolkit:
+    - Getting Started: "nimbal/index.md"
+    - Usage:
+        - The 'Device' class: "nimbal/usage/class_device.md"
+        - The 'Pipeline' class: "nimbal/usage/class_pipeline.md"
+        - Package Modules: "nimbal/usage/modules.md"
+        - Step detection: "nimbal/usage/tutorials/step_detection/step_detect.md"
+theme:
+  name: material
+  palette:
+    primary: cyan
