@@ -3,7 +3,7 @@ nav:
  - About: 'index.md'
  - Getting Started: 'getting-started.md'
  - Usage:
-    - Example: "usage/tutorials/default.md"
+    - ECG: "usage/tutorials/ecg_hrv_tutorial.md"
  - NiMBaL Toolkit:
     - Getting Started: "nimbal/index.md"
     - Usage:
